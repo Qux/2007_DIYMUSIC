@@ -1,11 +1,11 @@
 # 2007_DIY_Live
+オンラインライブイベント[DIY MUSIC on DESKTOP](https://makezine.jp/blog/2020/07/diy-music-on-desktop_timetable.html)で使用した諸ファイルです。
 
 
-
-## Requirements
+## 必要環境
 - Ableton Live 10.1.15
 - Max 8.1.5
-- Download [this repo](https://github.com/hana/ht.min) to `Max 8/packages`
+    - [このレポジトリ](https://github.com/hana/ht.min) `Max 8/packages`にダウンロードしてください。
 
 ## ファイル構成
 `Ableton` フォルダ
