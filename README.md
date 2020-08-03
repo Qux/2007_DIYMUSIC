@@ -18,6 +18,9 @@
 - Raspberry Pi上で実行され、サーボとNeoPixelを制御する
 
 ## 初期化
+### Submoduleの有効化
+`$ git submodule init`を実行してください。
+
 ### サーバーの起動
 以下はサーバー上で実行
 1. `Hub`フォルダ内の`package.js`を基に依存ファイルをnpmなどでインストール。
