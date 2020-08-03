@@ -1,0 +1,4 @@
+[submodule "RPi/quxpy"]
+	path = RPi/quxpy
+	url = git@github.com:Qux/quxpy.git
+	branch = master
